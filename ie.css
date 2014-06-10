@@ -1,0 +1,37 @@
+.logo{
+	background:url(images/none.gif) no-repeat;
+	filter:progid:dximagetransform.microsoft.alphaimageloader(src='images/bg-logo.png', sizingmethod='crop');
+}
+.logo a{
+	background:url(images/none.gif) no-repeat;
+	filter:progid:dximagetransform.microsoft.alphaimageloader(src='images/logo-1.png', sizingmethod='crop');
+}
+.mask{
+	background:url(images/none.gif) no-repeat;
+	filter:progid:dximagetransform.microsoft.alphaimageloader(src='images/mask.png', sizingmethod='crop');
+}
+.blocks-holder .container,
+.footer-section .footer-holder{
+	background:url(images/none.gif) no-repeat;
+	filter:progid:dximagetransform.microsoft.alphaimageloader(src='images/bg-main.png', sizingmethod='scale');
+}
+#main{
+	background:url(images/none.gif) no-repeat;
+	filter:progid:dximagetransform.microsoft.alphaimageloader(src='images/bg-main-gradient.png', sizingmethod='scale');
+}
+.dark-box{
+	background:url(images/none.gif) no-repeat;
+	filter:progid:dximagetransform.microsoft.alphaimageloader(src='images/bottom-gradient.png', sizingmethod='scale');
+}
+.footer-section .box{
+	background:url(images/none.gif) no-repeat;
+	filter:progid:dximagetransform.microsoft.alphaimageloader(src='images/bg-box-1.png', sizingmethod='scale');
+}
+.footer-section .box h4{
+	background:url(images/none.gif) no-repeat;
+	filter:progid:dximagetransform.microsoft.alphaimageloader(src='images/bg-box-2.png', sizingmethod='scale');
+}
+.footer-section .box .heading{
+	background:url(images/none.gif) no-repeat;
+	filter:progid:dximagetransform.microsoft.alphaimageloader(src='images/bg-heading-box.png', sizingmethod='scale');
+}
